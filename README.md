@@ -1,0 +1,2 @@
+# smartOS
+SmartOS支持操作系统虚拟化，虚拟出SmartMachine。和KVM类似，一个SmartMachine看上去就是一个完整的机器，有自己的硬件（存储、网络和处理器）和操作系统以及库文件等。和KVM不同的是，没有格外的虚拟化层。这意味着不同的SmartMachine在同一硬件上共用操作系统（SmartOS）
