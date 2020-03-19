@@ -28,7 +28,7 @@ SmartOS支持操作系统虚拟化，虚拟出SmartMachine。和KVM类似，一�
 
 [2.Zone的概念](./src/zones.md)
 
-[3.smartOS安装](./src/zones.md)
+[3.smartOS安装](./src/smartOS安装.md)
 
 ## 三.常用操作
 
